@@ -1,0 +1,10 @@
+============================= test session starts ==============================
+platform linux -- Python 3.12.1, pytest-9.0.2, pluggy-1.6.0
+rootdir: /workspaces/DISENIO-DE-PRUEBAS-CONTROL-DE-CALIDAD-Y-MANTENIMIENTO-1-SIN-6A/proyecto-doe
+configfile: pytest.ini
+plugins: anyio-4.11.0
+collected 3 items
+
+tests/test_binary_initial.py ...                                         [100%]
+
+============================== 3 passed in 0.03s ===============================

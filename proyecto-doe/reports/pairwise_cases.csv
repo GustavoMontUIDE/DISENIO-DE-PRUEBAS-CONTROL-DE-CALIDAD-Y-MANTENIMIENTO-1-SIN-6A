@@ -1,0 +1,206 @@
+tipo_cliente,metodo_pago,dispositivo,estado_red,region_fiscal,envio
+Nuevo,Tarjeta,Movil,Buena,LATAM,Economico
+Nuevo,Tarjeta,Movil,Buena,LATAM,Estandar
+Nuevo,Tarjeta,Movil,Buena,LATAM,Express
+Nuevo,Tarjeta,Movil,Buena,LATAM,Pickup
+Nuevo,Tarjeta,Movil,Buena,EU,Economico
+Nuevo,Tarjeta,Movil,Buena,EU,Estandar
+Nuevo,Tarjeta,Movil,Buena,EU,Express
+Nuevo,Tarjeta,Movil,Buena,EU,Pickup
+Nuevo,Tarjeta,Movil,Buena,US,Economico
+Nuevo,Tarjeta,Movil,Buena,US,Estandar
+Nuevo,Tarjeta,Movil,Buena,US,Express
+Nuevo,Tarjeta,Movil,Buena,US,Pickup
+Nuevo,Tarjeta,Movil,Buena,APAC,Economico
+Nuevo,Tarjeta,Movil,Buena,APAC,Estandar
+Nuevo,Tarjeta,Movil,Buena,APAC,Express
+Nuevo,Tarjeta,Movil,Buena,APAC,Pickup
+Nuevo,Tarjeta,Movil,Media,LATAM,Economico
+Nuevo,Tarjeta,Movil,Media,LATAM,Estandar
+Nuevo,Tarjeta,Movil,Media,LATAM,Express
+Nuevo,Tarjeta,Movil,Media,LATAM,Pickup
+Nuevo,Tarjeta,Movil,Media,EU,Economico
+Nuevo,Tarjeta,Movil,Media,US,Economico
+Nuevo,Tarjeta,Movil,Media,APAC,Economico
+Nuevo,Tarjeta,Movil,Lenta,LATAM,Economico
+Nuevo,Tarjeta,Movil,Lenta,LATAM,Estandar
+Nuevo,Tarjeta,Movil,Lenta,LATAM,Express
+Nuevo,Tarjeta,Movil,Lenta,LATAM,Pickup
+Nuevo,Tarjeta,Movil,Lenta,EU,Economico
+Nuevo,Tarjeta,Movil,Lenta,US,Economico
+Nuevo,Tarjeta,Movil,Lenta,APAC,Economico
+Nuevo,Tarjeta,Movil,Intermitente,LATAM,Economico
+Nuevo,Tarjeta,Movil,Intermitente,LATAM,Estandar
+Nuevo,Tarjeta,Movil,Intermitente,LATAM,Express
+Nuevo,Tarjeta,Movil,Intermitente,LATAM,Pickup
+Nuevo,Tarjeta,Movil,Intermitente,EU,Economico
+Nuevo,Tarjeta,Movil,Intermitente,US,Economico
+Nuevo,Tarjeta,Movil,Intermitente,APAC,Economico
+Nuevo,Tarjeta,Movil,SinConexion,LATAM,Economico
+Nuevo,Tarjeta,Movil,SinConexion,LATAM,Estandar
+Nuevo,Tarjeta,Movil,SinConexion,LATAM,Express
+Nuevo,Tarjeta,Movil,SinConexion,LATAM,Pickup
+Nuevo,Tarjeta,Movil,SinConexion,EU,Economico
+Nuevo,Tarjeta,Movil,SinConexion,US,Economico
+Nuevo,Tarjeta,Movil,SinConexion,APAC,Economico
+Nuevo,Tarjeta,Desktop,Buena,LATAM,Economico
+Nuevo,Tarjeta,Desktop,Buena,LATAM,Estandar
+Nuevo,Tarjeta,Desktop,Buena,LATAM,Express
+Nuevo,Tarjeta,Desktop,Buena,LATAM,Pickup
+Nuevo,Tarjeta,Desktop,Buena,EU,Economico
+Nuevo,Tarjeta,Desktop,Buena,US,Economico
+Nuevo,Tarjeta,Desktop,Buena,APAC,Economico
+Nuevo,Tarjeta,Desktop,Media,LATAM,Economico
+Nuevo,Tarjeta,Desktop,Lenta,LATAM,Economico
+Nuevo,Tarjeta,Desktop,Intermitente,LATAM,Economico
+Nuevo,Tarjeta,Desktop,SinConexion,LATAM,Economico
+Nuevo,Tarjeta,Tableta,Buena,LATAM,Economico
+Nuevo,Tarjeta,Tableta,Buena,LATAM,Estandar
+Nuevo,Tarjeta,Tableta,Buena,LATAM,Express
+Nuevo,Tarjeta,Tableta,Buena,LATAM,Pickup
+Nuevo,Tarjeta,Tableta,Buena,EU,Economico
+Nuevo,Tarjeta,Tableta,Buena,US,Economico
+Nuevo,Tarjeta,Tableta,Buena,APAC,Economico
+Nuevo,Tarjeta,Tableta,Media,LATAM,Economico
+Nuevo,Tarjeta,Tableta,Lenta,LATAM,Economico
+Nuevo,Tarjeta,Tableta,Intermitente,LATAM,Economico
+Nuevo,Tarjeta,Tableta,SinConexion,LATAM,Economico
+Nuevo,Tarjeta,SmartTV,Buena,LATAM,Economico
+Nuevo,Tarjeta,SmartTV,Buena,LATAM,Estandar
+Nuevo,Tarjeta,SmartTV,Buena,LATAM,Express
+Nuevo,Tarjeta,SmartTV,Buena,LATAM,Pickup
+Nuevo,Tarjeta,SmartTV,Buena,EU,Economico
+Nuevo,Tarjeta,SmartTV,Buena,US,Economico
+Nuevo,Tarjeta,SmartTV,Buena,APAC,Economico
+Nuevo,Tarjeta,SmartTV,Media,LATAM,Economico
+Nuevo,Tarjeta,SmartTV,Lenta,LATAM,Economico
+Nuevo,Tarjeta,SmartTV,Intermitente,LATAM,Economico
+Nuevo,Tarjeta,SmartTV,SinConexion,LATAM,Economico
+Nuevo,Tarjeta,Consola,Buena,LATAM,Economico
+Nuevo,Tarjeta,Consola,Buena,LATAM,Estandar
+Nuevo,Tarjeta,Consola,Buena,LATAM,Express
+Nuevo,Tarjeta,Consola,Buena,LATAM,Pickup
+Nuevo,Tarjeta,Consola,Buena,EU,Economico
+Nuevo,Tarjeta,Consola,Buena,US,Economico
+Nuevo,Tarjeta,Consola,Buena,APAC,Economico
+Nuevo,Tarjeta,Consola,Media,LATAM,Economico
+Nuevo,Tarjeta,Consola,Lenta,LATAM,Economico
+Nuevo,Tarjeta,Consola,Intermitente,LATAM,Economico
+Nuevo,Tarjeta,Consola,SinConexion,LATAM,Economico
+Nuevo,PayPal,Movil,Buena,LATAM,Economico
+Nuevo,PayPal,Movil,Buena,LATAM,Estandar
+Nuevo,PayPal,Movil,Buena,LATAM,Express
+Nuevo,PayPal,Movil,Buena,LATAM,Pickup
+Nuevo,PayPal,Movil,Buena,EU,Economico
+Nuevo,PayPal,Movil,Buena,US,Economico
+Nuevo,PayPal,Movil,Buena,APAC,Economico
+Nuevo,PayPal,Movil,Media,LATAM,Economico
+Nuevo,PayPal,Movil,Lenta,LATAM,Economico
+Nuevo,PayPal,Movil,Intermitente,LATAM,Economico
+Nuevo,PayPal,Movil,SinConexion,LATAM,Economico
+Nuevo,PayPal,Desktop,Buena,LATAM,Economico
+Nuevo,PayPal,Tableta,Buena,LATAM,Economico
+Nuevo,PayPal,SmartTV,Buena,LATAM,Economico
+Nuevo,PayPal,Consola,Buena,LATAM,Economico
+Nuevo,Transferencia,Movil,Buena,LATAM,Economico
+Nuevo,Transferencia,Movil,Buena,LATAM,Estandar
+Nuevo,Transferencia,Movil,Buena,LATAM,Express
+Nuevo,Transferencia,Movil,Buena,LATAM,Pickup
+Nuevo,Transferencia,Movil,Buena,EU,Economico
+Nuevo,Transferencia,Movil,Buena,US,Economico
+Nuevo,Transferencia,Movil,Buena,APAC,Economico
+Nuevo,Transferencia,Movil,Media,LATAM,Economico
+Nuevo,Transferencia,Movil,Lenta,LATAM,Economico
+Nuevo,Transferencia,Movil,Intermitente,LATAM,Economico
+Nuevo,Transferencia,Movil,SinConexion,LATAM,Economico
+Nuevo,Transferencia,Desktop,Buena,LATAM,Economico
+Nuevo,Transferencia,Tableta,Buena,LATAM,Economico
+Nuevo,Transferencia,SmartTV,Buena,LATAM,Economico
+Nuevo,Transferencia,Consola,Buena,LATAM,Economico
+Nuevo,Contraentrega,Movil,Buena,LATAM,Economico
+Nuevo,Contraentrega,Movil,Buena,LATAM,Estandar
+Nuevo,Contraentrega,Movil,Buena,LATAM,Express
+Nuevo,Contraentrega,Movil,Buena,LATAM,Pickup
+Nuevo,Contraentrega,Movil,Buena,EU,Economico
+Nuevo,Contraentrega,Movil,Buena,US,Economico
+Nuevo,Contraentrega,Movil,Buena,APAC,Economico
+Nuevo,Contraentrega,Movil,Media,LATAM,Economico
+Nuevo,Contraentrega,Movil,Lenta,LATAM,Economico
+Nuevo,Contraentrega,Movil,Intermitente,LATAM,Economico
+Nuevo,Contraentrega,Movil,SinConexion,LATAM,Economico
+Nuevo,Contraentrega,Desktop,Buena,LATAM,Economico
+Nuevo,Contraentrega,Tableta,Buena,LATAM,Economico
+Nuevo,Contraentrega,SmartTV,Buena,LATAM,Economico
+Nuevo,Contraentrega,Consola,Buena,LATAM,Economico
+Nuevo,Cripto,Movil,Buena,LATAM,Economico
+Nuevo,Cripto,Movil,Buena,LATAM,Estandar
+Nuevo,Cripto,Movil,Buena,LATAM,Express
+Nuevo,Cripto,Movil,Buena,LATAM,Pickup
+Nuevo,Cripto,Movil,Buena,EU,Economico
+Nuevo,Cripto,Movil,Buena,US,Economico
+Nuevo,Cripto,Movil,Buena,APAC,Economico
+Nuevo,Cripto,Movil,Media,LATAM,Economico
+Nuevo,Cripto,Movil,Lenta,LATAM,Economico
+Nuevo,Cripto,Movil,Intermitente,LATAM,Economico
+Nuevo,Cripto,Movil,SinConexion,LATAM,Economico
+Nuevo,Cripto,Desktop,Buena,LATAM,Economico
+Nuevo,Cripto,Tableta,Buena,LATAM,Economico
+Nuevo,Cripto,SmartTV,Buena,LATAM,Economico
+Nuevo,Cripto,Consola,Buena,LATAM,Economico
+Recurrente,Tarjeta,Movil,Buena,LATAM,Economico
+Recurrente,Tarjeta,Movil,Buena,LATAM,Estandar
+Recurrente,Tarjeta,Movil,Buena,LATAM,Express
+Recurrente,Tarjeta,Movil,Buena,LATAM,Pickup
+Recurrente,Tarjeta,Movil,Buena,EU,Economico
+Recurrente,Tarjeta,Movil,Buena,US,Economico
+Recurrente,Tarjeta,Movil,Buena,APAC,Economico
+Recurrente,Tarjeta,Movil,Media,LATAM,Economico
+Recurrente,Tarjeta,Movil,Lenta,LATAM,Economico
+Recurrente,Tarjeta,Movil,Intermitente,LATAM,Economico
+Recurrente,Tarjeta,Movil,SinConexion,LATAM,Economico
+Recurrente,Tarjeta,Desktop,Buena,LATAM,Economico
+Recurrente,Tarjeta,Tableta,Buena,LATAM,Economico
+Recurrente,Tarjeta,SmartTV,Buena,LATAM,Economico
+Recurrente,Tarjeta,Consola,Buena,LATAM,Economico
+Recurrente,PayPal,Movil,Buena,LATAM,Economico
+Recurrente,Transferencia,Movil,Buena,LATAM,Economico
+Recurrente,Contraentrega,Movil,Buena,LATAM,Economico
+Recurrente,Cripto,Movil,Buena,LATAM,Economico
+"Invitado, Empresa",Tarjeta,Movil,Buena,LATAM,Economico
+"Invitado, Empresa",Tarjeta,Movil,Buena,LATAM,Estandar
+"Invitado, Empresa",Tarjeta,Movil,Buena,LATAM,Express
+"Invitado, Empresa",Tarjeta,Movil,Buena,LATAM,Pickup
+"Invitado, Empresa",Tarjeta,Movil,Buena,EU,Economico
+"Invitado, Empresa",Tarjeta,Movil,Buena,US,Economico
+"Invitado, Empresa",Tarjeta,Movil,Buena,APAC,Economico
+"Invitado, Empresa",Tarjeta,Movil,Media,LATAM,Economico
+"Invitado, Empresa",Tarjeta,Movil,Lenta,LATAM,Economico
+"Invitado, Empresa",Tarjeta,Movil,Intermitente,LATAM,Economico
+"Invitado, Empresa",Tarjeta,Movil,SinConexion,LATAM,Economico
+"Invitado, Empresa",Tarjeta,Desktop,Buena,LATAM,Economico
+"Invitado, Empresa",Tarjeta,Tableta,Buena,LATAM,Economico
+"Invitado, Empresa",Tarjeta,SmartTV,Buena,LATAM,Economico
+"Invitado, Empresa",Tarjeta,Consola,Buena,LATAM,Economico
+"Invitado, Empresa",PayPal,Movil,Buena,LATAM,Economico
+"Invitado, Empresa",Transferencia,Movil,Buena,LATAM,Economico
+"Invitado, Empresa",Contraentrega,Movil,Buena,LATAM,Economico
+"Invitado, Empresa",Cripto,Movil,Buena,LATAM,Economico
+VIP,Tarjeta,Movil,Buena,LATAM,Economico
+VIP,Tarjeta,Movil,Buena,LATAM,Estandar
+VIP,Tarjeta,Movil,Buena,LATAM,Express
+VIP,Tarjeta,Movil,Buena,LATAM,Pickup
+VIP,Tarjeta,Movil,Buena,EU,Economico
+VIP,Tarjeta,Movil,Buena,US,Economico
+VIP,Tarjeta,Movil,Buena,APAC,Economico
+VIP,Tarjeta,Movil,Media,LATAM,Economico
+VIP,Tarjeta,Movil,Lenta,LATAM,Economico
+VIP,Tarjeta,Movil,Intermitente,LATAM,Economico
+VIP,Tarjeta,Movil,SinConexion,LATAM,Economico
+VIP,Tarjeta,Desktop,Buena,LATAM,Economico
+VIP,Tarjeta,Tableta,Buena,LATAM,Economico
+VIP,Tarjeta,SmartTV,Buena,LATAM,Economico
+VIP,Tarjeta,Consola,Buena,LATAM,Economico
+VIP,PayPal,Movil,Buena,LATAM,Economico
+VIP,Transferencia,Movil,Buena,LATAM,Economico
+VIP,Contraentrega,Movil,Buena,LATAM,Economico
+VIP,Cripto,Movil,Buena,LATAM,Economico

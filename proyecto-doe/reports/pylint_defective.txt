@@ -1,0 +1,7 @@
+************* Module binary_search_defective
+src/binary_search_defective.py:37:0: C0116: Missing function or method docstring (missing-function-docstring)
+src/binary_search_defective.py:70:11: W0718: Catching too general exception Exception (broad-exception-caught)
+
+-----------------------------------
+Your code has been rated at 9.09/10
+

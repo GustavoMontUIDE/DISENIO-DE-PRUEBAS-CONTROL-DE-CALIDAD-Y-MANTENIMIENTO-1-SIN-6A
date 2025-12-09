@@ -1,0 +1,11 @@
+tipo_cliente,metodo_pago,dispositivo,estado_red,region_fiscal,envio
+Nuevo,Tarjeta,Movil,Buena,LATAM,Economico
+Nuevo,Tarjeta,Movil,Buena,LATAM,Estandar
+Nuevo,Tarjeta,Movil,Buena,LATAM,Express
+Nuevo,Tarjeta,Movil,Buena,LATAM,Pickup
+Nuevo,Tarjeta,Movil,Buena,EU,Economico
+Nuevo,Tarjeta,Movil,Buena,EU,Estandar
+Nuevo,Tarjeta,Movil,Buena,EU,Express
+Nuevo,Tarjeta,Movil,Buena,EU,Pickup
+Nuevo,Tarjeta,Movil,Buena,US,Economico
+Nuevo,Tarjeta,Movil,Buena,US,Estandar
